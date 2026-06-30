@@ -1,0 +1,10 @@
+{
+  "name": "eudes-soler-contabilidad",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sitio web y webhook de WhatsApp para Eudes Soler.",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "check": "node --check script.js && node --check api/whatsapp/webhook.js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Eudes Soler Contabilidad",
+  "short_name": "Eudes Soler",
+  "description": "Servicios contables, tributarios y financieros con atención por WhatsApp.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7f2",
+  "theme_color": "#173f35",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
