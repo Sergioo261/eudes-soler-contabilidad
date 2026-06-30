@@ -39,5 +39,5 @@ const WHATSAPP_PHONE = "573115362222";
 - `index.html`: estructura del sitio.
 - `styles.css`: diseño responsive.
 - `script.js`: filtros, recomendador y redirecciones a WhatsApp.
-- `assets/eudes-soler-hero-v3.png`: imagen principal generada para la marca, sin personas y con banderas de Colombia y Cundinamarca.
+- `assets/eudes-soler-hero-v4.png`: imagen principal generada para la marca, sin personas y con banderas de Colombia y Cundinamarca.
 - `site.webmanifest`: configuración básica para instalación/acceso desde móviles.
